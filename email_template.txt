@@ -1,0 +1,13 @@
+Subject: Urgent: Account Verification Required
+
+Dear User,
+
+Due to recent security updates, please verify your account by clicking the link below:
+
+http://yourserver.com/verify
+
+Failure to verify your account within 24 hours may result in temporary suspension.
+
+Thank you,
+IT Support Team
+
